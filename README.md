@@ -8,10 +8,10 @@ I'm a self-taught software engineer who started his career when he was 16 years 
 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [Twitter](http://twitter.com/Alichampion456)
-* ✉️  You can contact me at [alihussnainghaffar456@gmail.com](mailto:alihussnainghaffar456@gmail.com)
+* ✉️   You can contact me at [alihussnainghaffar456@gmail.com](mailto:alihussnainghaffar456@gmail.com)
 * 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on NestJs
-* ⚡  On a secret not I'm champion but I often don’t anyone
+* 🤝  I'm open to collaborating on Front-end or Back-end technologies
+* ⚡   On a secret note I'm a champion
 
 <a href="https://www.twitter.com/Alichampion456" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Alichampion456?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

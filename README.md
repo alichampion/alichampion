@@ -9,7 +9,7 @@ I'm a self-taught software engineer who started his career when he was 16 years 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [Twitter](http://twitter.com/Alichampion456)
 * ✉️   You can contact me at [alihussnainghaffar456@gmail.com](mailto:alihussnainghaffar456@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Rust & Java
 * 🤝  I'm open to collaborating on Front-end or Back-end technologies
 * ⚡   On a secret note I'm a champion
 

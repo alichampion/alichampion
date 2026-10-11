@@ -1,75 +1,75 @@
-Hi 👋 My name is Ali hussnain
-=============================
+<h1 align="center">Hi 👋, I'm Ali Hussnain</h1>
+<h3 align="center">Full-Stack Software Engineer · Building systems with AI</h3>
 
-Full-Stack Software Engineer
-----------------------------
-
-I'm a self-taught software engineer who started his career when he was 16 years old and now working as a fullstack engineer and part-time freelancer always up for learning from senior engineer's experiences.
-
-* 🌍  I'm based in Lahore
-* 🖥️  See my portfolio at [Twitter](http://twitter.com/Alichampion456)
-* ✉️   You can contact me at [alihussnainghaffar456@gmail.com](mailto:alihussnainghaffar456@gmail.com)
-* 🧠  I'm learning Rust & Java
-* 🤝  I'm open to collaborating on Front-end or Back-end technologies
-* ⚡   On a secret note I'm a champion
-
-<a href="https://www.twitter.com/Alichampion456" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Alichampion456?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<p align="center">
+  <a href="https://x.com/Alichampion456"><img src="https://img.shields.io/badge/X-@Alichampion456-1c1917?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:alihussnainghaffar456@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/9626938/ali-hussnain"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-1c1917?style=for-the-badge&logo=stackoverflow&logoColor=f48024" alt="Stack Overflow" /></a>
+  <a href="https://codepen.io/ali-hussnain"><img src="https://img.shields.io/badge/CodePen-Pens-1c1917?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
 
+---
 
-### Socials
+I'm a self-taught engineer who started writing code at 16. These days I work across the whole stack, from interfaces and APIs to data, infrastructure, and the AI layer that ties them together. I like simple designs, readable code, and learning from engineers who've done it longer than I have.
 
-<p align="left"> <a href="https://www.codepen.io/ali-hussnain/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/alichampion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9626938/ali-hussnain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Alichampion456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 🌍 Based in **Lahore, Pakistan**
+- 🤖 Currently focused on **building systems with AI**: LLM-powered workflows, agents, RAG pipelines, and automation that work reliably in production
+- 🦀 Exploring **Rust** for fast, dependable backend tooling
+- 🤝 Open to collaborating on **full-stack** and **AI** projects
+- ⚡ Fun fact: I'm a champion (ask me about it)
 
-### Profile views
+### 🛠️ Tech Stack
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=alichampion456&label=Profile%20Views&icon=3&pretty=false" />
-</a>
+**AI & LLMs**
+<br/>
+<img src="https://img.shields.io/badge/Claude-1c1917?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/Anthropic%20API-1c1917?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API" />
+<img src="https://img.shields.io/badge/OpenAI%20API-1c1917?style=for-the-badge" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Gemini-1c1917?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Ollama-1c1917?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Hugging%20Face-1c1917?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1c1917?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1c1917?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LlamaIndex-1c1917?style=for-the-badge" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/Vercel%20AI%20SDK-1c1917?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+<img src="https://img.shields.io/badge/MCP-1c1917?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/n8n-1c1917?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-1c1917?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/FastAPI-1c1917?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Pinecone-1c1917?style=for-the-badge" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Qdrant-1c1917?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+<img src="https://img.shields.io/badge/pgvector-1c1917?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="pgvector" />
+<img src="https://img.shields.io/badge/Supabase-1c1917?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
 
-### Badges
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,rust,html,css" alt="Languages" />
 
-<b>My GitHub Stats</b>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,sass" alt="Frontend" />
 
-<a href="http://www.github.com/alichampion"><img src="https://github-readme-stats.vercel.app/api?username=alichampion&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alichampion's GitHub stats" /></a>
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,graphql,postgres,mysql,mongodb,firebase" alt="Backend and data" />
 
-<a href="http://www.github.com/alichampion"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alichampion&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Mobile & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,figma,xd" alt="Mobile and design" />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/alichampion"><img height="165" src="https://github-readme-stats.vercel.app/api?username=alichampion&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="GitHub stats" /></a>
+  <a href="https://github.com/alichampion"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alichampion&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" alt="Top languages" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alichampion"><img src="https://streak-stats.demolab.com/?user=alichampion&hide_border=true&background=1c1917&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alichampion&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />
+</p>

@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Ali%20Hussnain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Building%20Systems%20with%20AI&descSize=18&descAlignY=58" alt="Ali Hussnain" />
+<picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Ali%20Hussnain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Building%20Systems%20with%20AI&descSize=18&descAlignY=58" alt="Ali Hussnain" /></picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Full-stack+engineer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+systems+with+AI+%F0%9F%A4%96;Agents+%C2%B7+RAG+%C2%B7+Automation;Designing+agent+harnesses+%F0%9F%A7%A9" alt="Typing intro" />
+  <picture><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Full-stack+engineer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+systems+with+AI+%F0%9F%A4%96;Agents+%C2%B7+RAG+%C2%B7+Automation;Designing+agent+harnesses+%F0%9F%A7%A9" alt="Typing intro" /></picture>
 </p>
 
 <p align="center">
@@ -47,24 +47,24 @@ const ali = {
 ### 🧠 AI & LLMs
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-1c1917?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/Anthropic%20API-1c1917?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-1c1917?style=for-the-badge" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Gemini-1c1917?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-1c1917?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-1c1917?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1c1917?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1c1917?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LlamaIndex-1c1917?style=for-the-badge" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-1c1917?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-  <img src="https://img.shields.io/badge/MCP-1c1917?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/n8n-1c1917?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
-  <img src="https://img.shields.io/badge/PyTorch-1c1917?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/FastAPI-1c1917?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Pinecone-1c1917?style=for-the-badge" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/Qdrant-1c1917?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/pgvector-1c1917?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Supabase-1c1917?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+  <picture><img src="https://img.shields.io/badge/Claude-1c1917?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" /></picture>
+  <picture><img src="https://img.shields.io/badge/Anthropic%20API-1c1917?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API" /></picture>
+  <picture><img src="https://img.shields.io/badge/OpenAI%20API-1c1917?style=for-the-badge" alt="OpenAI API" /></picture>
+  <picture><img src="https://img.shields.io/badge/Gemini-1c1917?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" /></picture>
+  <picture><img src="https://img.shields.io/badge/Ollama-1c1917?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></picture>
+  <picture><img src="https://img.shields.io/badge/Hugging%20Face-1c1917?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></picture>
+  <picture><img src="https://img.shields.io/badge/LangChain-1c1917?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></picture>
+  <picture><img src="https://img.shields.io/badge/LangGraph-1c1917?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /></picture>
+  <picture><img src="https://img.shields.io/badge/LlamaIndex-1c1917?style=for-the-badge" alt="LlamaIndex" /></picture>
+  <picture><img src="https://img.shields.io/badge/Vercel%20AI%20SDK-1c1917?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" /></picture>
+  <picture><img src="https://img.shields.io/badge/MCP-1c1917?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /></picture>
+  <picture><img src="https://img.shields.io/badge/n8n-1c1917?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" /></picture>
+  <picture><img src="https://img.shields.io/badge/PyTorch-1c1917?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /></picture>
+  <picture><img src="https://img.shields.io/badge/FastAPI-1c1917?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /></picture>
+  <picture><img src="https://img.shields.io/badge/Pinecone-1c1917?style=for-the-badge" alt="Pinecone" /></picture>
+  <picture><img src="https://img.shields.io/badge/Qdrant-1c1917?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant" /></picture>
+  <picture><img src="https://img.shields.io/badge/pgvector-1c1917?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="pgvector" /></picture>
+  <picture><img src="https://img.shields.io/badge/Supabase-1c1917?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" /></picture>
 </p>
 
 ### 🛠️ Stack
@@ -72,32 +72,57 @@ const ali = {
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=ts,js,python,php,rust,html,css&perline=9" alt="Languages" /></td>
+<td><picture><img src="https://skillicons.dev/icons?i=ts,js,python,php,rust,html,css&perline=12" alt="Languages" /></picture></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,sass&perline=9" alt="Frontend" /></td>
+<td><picture><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui&perline=12" alt="Frontend" /></picture></td>
 </tr>
 <tr>
 <td><b>Backend & Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,graphql,postgres,mysql,mongodb,firebase&perline=9" alt="Backend and data" /></td>
+<td><picture><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,graphql,prisma,postgres,mysql,mongodb,redis,supabase,firebase&perline=12" alt="Backend & Data" /></picture></td>
+</tr>
+<tr>
+<td><b>DevOps & Cloud</b></td>
+<td><picture><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws,nginx,linux,git&perline=12" alt="DevOps & Cloud" /></picture></td>
 </tr>
 <tr>
 <td><b>Mobile & Design</b></td>
-<td><img src="https://skillicons.dev/icons?i=flutter,figma,xd&perline=9" alt="Mobile and design" /></td>
+<td><picture><img src="https://skillicons.dev/icons?i=flutter,figma&perline=12" alt="Mobile & Design" /></picture></td>
 </tr>
 </table>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alichampion&theme=github_dark" alt="Contribution overview" />
+  <picture><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alichampion&theme=github_dark" alt="Contribution overview" /></picture>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://streak-stats.demolab.com/?user=alichampion&card_width=340&card_height=200&border_radius=6&border=30363d&background=0d1117&stroke=30363d&ring=0891b2&fire=0891b2&currStreakNum=e6edf3&currStreakLabel=0891b2&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alichampion&layout=donut&langs_count=5&hide=dart&border_radius=6&border_color=30363d&title_color=0891b2&text_color=e6edf3&bg_color=0d1117" alt="Top languages" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alichampion&theme=github_dark&utcOffset=5" alt="Most productive hours" />
+  <picture><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alichampion&layout=compact&langs_count=6&hide=dart&card_width=480&border_radius=6&border_color=30363d&title_color=0891b2&text_color=e6edf3&bg_color=0d1117" alt="Top languages" /></picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=120&section=footer" alt="" />
+<p align="center">
+  <picture><img width="100%" src="https://streak-stats.demolab.com/?user=alichampion&card_width=600&card_height=190&border_radius=6&border=30363d&background=0d1117&stroke=30363d&ring=0891b2&fire=0891b2&currStreakNum=e6edf3&currStreakLabel=0891b2&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" /></picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alichampion/alichampion/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alichampion/alichampion/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/alichampion/alichampion/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+<h3 align="center">🤝 Let's build something together</h3>
+
+<p align="center">
+  Have an AI idea, a messy workflow to automate, or a product that needs a full-stack hand?<br/>
+  My inbox is open, and I usually reply within a day or two.
+</p>
+
+<p align="center">
+  <a href="mailto:alihussnainghaffar456@gmail.com"><img src="https://img.shields.io/badge/Email%20me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://x.com/Alichampion456"><img src="https://img.shields.io/badge/DM%20on%20X-1c1917?style=for-the-badge&logo=x&logoColor=white" alt="DM on X" /></a>
+</p>
+

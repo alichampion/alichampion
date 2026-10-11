@@ -1,7 +1,7 @@
 <picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Ali%20Hussnain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Building%20Systems%20with%20AI&descSize=18&descAlignY=58" alt="Ali Hussnain" /></picture>
 
 <p align="center">
-  <picture><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Full-stack+engineer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+systems+with+AI+%F0%9F%A4%96;Agents+%C2%B7+RAG+%C2%B7+Automation;Designing+agent+harnesses+%F0%9F%A7%A9" alt="Typing intro" /></picture>
+  <picture><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Full-stack+engineer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+systems+with+AI+%F0%9F%A4%96;Agents+%C2%B7+RAG+%C2%B7+Automation;Building+multi-agent+systems+%F0%9F%A7%A9" alt="Typing intro" /></picture>
 </p>
 
 <p align="center">
@@ -20,9 +20,11 @@
 Self-taught engineer, writing code since 16. I work across the whole stack, from interfaces and APIs to data, infra, and the AI layer that ties it all together.
 
 - 🤖 Shipping **LLM workflows, agents & RAG**
-- 🧩 Designing **agent harnesses**
+- 🧩 Building **multi-agent systems & MCP servers**
 - 🤝 Open to **full-stack & AI** collabs
 - ⚡ Fun fact: I'm a champion
+
+<br/>
 
 </td>
 <td width="50%" valign="middle">
@@ -32,8 +34,8 @@ const ali = {
   role: "Full-Stack Engineer",
   location: "Lahore, PK",
   focus: ["AI systems", "Agents", "RAG"],
-  building: "agent harnesses",
-  harness: ["tools", "memory", "evals", "guardrails"],
+  building: "multi-agent systems",
+  into: ["MCP", "context engineering", "evals"],
   stack: ["TypeScript", "Python", "Next.js"],
   ai: ["Claude", "LangGraph", "Qdrant"],
   openTo: "collaboration",
@@ -72,7 +74,7 @@ const ali = {
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><picture><img src="https://skillicons.dev/icons?i=ts,js,python,php,rust,html,css&perline=12" alt="Languages" /></picture></td>
+<td><picture><img src="https://skillicons.dev/icons?i=ts,js,python,dart,swift,kotlin,ruby,php,bash&perline=12" alt="Languages" /></picture></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
@@ -88,7 +90,7 @@ const ali = {
 </tr>
 <tr>
 <td><b>Mobile & Design</b></td>
-<td><picture><img src="https://skillicons.dev/icons?i=flutter,figma&perline=12" alt="Mobile & Design" /></picture></td>
+<td><picture><img src="https://skillicons.dev/icons?i=flutter,androidstudio,apple,figma&perline=12" alt="Mobile & Design" /></picture></td>
 </tr>
 </table>
 
